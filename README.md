@@ -14,7 +14,7 @@ A rimworld mod that makes weight *better*
 
 ## Possible Features
 * Make it work for all objects. Allow everything to have it's weight easily edited and this carry a ripple effect in order to make the game harder/easier
-What if steel weighed double of what it does now? How would moving around the map with steel mortars be effected?
+What if steel weighed double of what it does now? How would moving around the map with steel mortars be affected?
 
 ## Requirements
 Requires: [HugsLib](https://github.com/UnlimitedHugs/RimworldHugsLib) in order to run
